@@ -1,0 +1,3 @@
+[submodule "boom-core"]
+	path = boom-core
+	url = https://github.com/riscv-boom/riscv-boom.git
